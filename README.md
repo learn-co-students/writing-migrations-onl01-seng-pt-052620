@@ -1,4 +1,4 @@
-# Let's Write Some Migrations
+5. # Let's Write Some Migrations
 
 ## Objectives
 
